@@ -1,8 +1,8 @@
 streamlit
 pandas
 matplotlib
-pandas 
 numpy 
 matplotlib 
 seaborn 
-scipy
+joblip
+plotly
