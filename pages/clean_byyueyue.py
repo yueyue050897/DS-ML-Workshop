@@ -63,3 +63,6 @@ if uploaded_file is not None:
 
 else:
     st.info("กรุณาอัปโหลดไฟล์เพื่อเริ่มใช้งานนะเมี๊ยว~ 🐱")
+
+if st.button("🏠 กลับหน้าหลัก"):
+    st.switch_page("app.py")
