@@ -15,6 +15,6 @@ if st.button("💰 ระบบคำนวณส่วนลดตามยอ�
 elif st.button("💰 การทำความสะอาดข้อมูล"):
     st.switch_page("pages/clean_bytoon.py")
 elif st.button("💰 แปลงข้อมูล"):
-    st.switch_page("pages/clean_byyueyue.py")
+    st.switch_page("pages/transform_app.py")
 elif st.button("💰 แปลงข้อมูลA"):
     st.switch_page("pages/clean_customers.py")
